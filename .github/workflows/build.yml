@@ -24,10 +24,12 @@ jobs:
           path: "src"
 
       - name: Checkout builds
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
         with:
-          ref: "builds"
-          path: "builds"
+          repository: unaisc4rt/tes
+          ref: builds
+          path: builds
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Clean old builds
         run: rm $GITHUB_WORKSPACE/builds/*.cs3 || true
