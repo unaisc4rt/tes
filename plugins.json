@@ -245,7 +245,7 @@
         "iconUrl": "https://i.ibb.co.com/bMKwcDtH/sarangfilm.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Asm0d3usX/CloudX",
-        "fileSize": 80378,
+        "fileSize": 80408,
         "status": 1,
         "language": "id",
         "authors": [
@@ -256,9 +256,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "MovieBox",
-        "url": "https://github.com/unaisc4rt/tes/raw/refs/heads/master/MovieBox.cs3",
+        "url": "https://github.com/unaisc4rt/tes/raw/refs/heads/master/MovieBox_new.cs3",
         "name": "MovieBox"
     },
     {
