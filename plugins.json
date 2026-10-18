@@ -256,9 +256,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "MovieBox",
-        "url": "https://github.com/unaisc4rt/tes/raw/refs/heads/master/Movieboxtes.cs3",
+        "url": "https://github.com/unaisc4rt/tes/raw/refs/heads/master/MovieBox.cs3",
         "name": "MovieBox"
     },
     {
